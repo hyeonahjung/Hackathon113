@@ -1,0 +1,6 @@
+<launch>
+  <copy file="helloworld.net.xml"/>
+  <copy file="trip4.rou.xml"/>
+  <copy file="helloworld.sumocfg" type="config"/>
+  <copy file="gui-settings.xml"/>
+</launch>

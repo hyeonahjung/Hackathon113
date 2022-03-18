@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2022-01-14 13:22:31.276150 by $Id$
+  options: -n helloworld.net.xml -o trip3.rou.xml -p 100
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="edown-eup" to="wdown-wmain"/>
+    <trip id="1" depart="100.00" from="edown-eup" to="emain-wmain"/>
+    <trip id="2" depart="200.00" from="eup-edown" to="wdown-wmain"/>
+    <trip id="3" depart="300.00" from="wmain-wup" to="eup-edown"/>
+    <trip id="4" depart="400.00" from="wdown-wmain" to="wmain-emain"/>
+    <trip id="5" depart="500.00" from="wmain-wup" to="eup-edown"/>
+    <trip id="6" depart="600.00" from="emain-edown" to="wmain-emain"/>
+    <trip id="7" depart="700.00" from="wup-wdown" to="edown-eup"/>
+    <trip id="8" depart="800.00" from="emain-edown" to="emain-wmain"/>
+    <trip id="9" depart="900.00" from="wmain-emain" to="eup-edown"/>
+    <trip id="10" depart="1000.00" from="wmain-wup" to="wdown-wmain"/>
+    <trip id="11" depart="1100.00" from="wmain-emain" to="edown-eup"/>
+    <trip id="12" depart="1200.00" from="emain-wmain" to="emain-edown"/>
+    <trip id="13" depart="1300.00" from="emain-wmain" to="wdown-wmain"/>
+    <trip id="14" depart="1400.00" from="wmain-emain" to="wmain-emain"/>
+    <trip id="15" depart="1500.00" from="edown-eup" to="edown-eup"/>
+    <trip id="16" depart="1600.00" from="wdown-wmain" to="eup-edown"/>
+    <trip id="17" depart="1700.00" from="emain-edown" to="emain-edown"/>
+    <trip id="18" depart="1800.00" from="eup-edown" to="wdown-wmain"/>
+    <trip id="19" depart="1900.00" from="wdown-wmain" to="wmain-emain"/>
+    <trip id="20" depart="2000.00" from="wmain-emain" to="wmain-wup"/>
+    <trip id="21" depart="2100.00" from="wmain-wup" to="wmain-wup"/>
+    <trip id="22" depart="2200.00" from="wmain-emain" to="edown-eup"/>
+    <trip id="23" depart="2300.00" from="wmain-emain" to="emain-edown"/>
+    <trip id="24" depart="2400.00" from="edown-eup" to="emain-edown"/>
+    <trip id="25" depart="2500.00" from="wdown-wmain" to="wmain-emain"/>
+    <trip id="26" depart="2600.00" from="emain-edown" to="eup-edown"/>
+    <trip id="27" depart="2700.00" from="wmain-emain" to="edown-eup"/>
+    <trip id="28" depart="2800.00" from="wdown-wmain" to="wmain-emain"/>
+    <trip id="29" depart="2900.00" from="wmain-emain" to="emain-wmain"/>
+    <trip id="30" depart="3000.00" from="emain-wmain" to="wmain-emain"/>
+    <trip id="31" depart="3100.00" from="wmain-emain" to="eup-edown"/>
+    <trip id="32" depart="3200.00" from="wmain-emain" to="emain-wmain"/>
+    <trip id="33" depart="3300.00" from="wmain-wup" to="wup-wdown"/>
+    <trip id="34" depart="3400.00" from="emain-wmain" to="wmain-wup"/>
+    <trip id="35" depart="3500.00" from="eup-edown" to="wup-wdown"/>
+</routes>
